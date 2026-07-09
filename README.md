@@ -1,7 +1,7 @@
 # sql-practice
 WELCOME!
 
-This reprository documents my SQL learning journet through hands-on practice and exercises. 
+This reprository documents my SQL learning journey through hands-on practice and exercises. 
 
 ##Goals 
 - Stregthen SQL fundamentals
@@ -11,17 +11,17 @@ This reprository documents my SQL learning journet through hands-on practice and
 
 ##Topics 
 
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- JOIN
-- Subquery
-- Window Functions
+- [x] SELECT
+- [x] WHERE
+- [x] ORDER BY
+- [] GROUP BY
+- [] HAVING
+- [] JOIN
+- [] Subquery
+- [] Window Functions
 
 ##Progress
-- [] Basic SQL
+- [x] Basic SQL
 - [] Intermediate SQL
 - [] Advanced SQL
 - [] Database Project
