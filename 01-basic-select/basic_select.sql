@@ -5,16 +5,21 @@
 
 --Display all coloumns 
 SELECT * 
-FROM cutomers c; 
+FROM Cutomers; 
 
 --Display only the FirstName coloumn
 SELECT FirstName 
-FROM customers c; 
+FROM Customers c; 
 
 --Display FirstName and LastName
 SELECT FirstName, LastName
-FROM customers c; 
+FROM Customers c; 
 
 --Display unique countries
 SELECT DISTINCT Country 
-FROM customers; 
+FROM Customers; 
+
+
+--!Notes 
+-- SELECT * returns all coloumns 
+-- DISTINCT removes duplicate values 
