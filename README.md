@@ -14,9 +14,9 @@ This reprository documents my SQL learning journey through hands-on practice and
 - [x] SELECT
 - [x] WHERE
 - [x] ORDER BY
-- [] GROUP BY
-- [] HAVING
-- [] JOIN
+- [x] GROUP BY
+- [x] HAVING
+- [x] JOIN
 - [] Subquery
 - [] Window Functions
 
